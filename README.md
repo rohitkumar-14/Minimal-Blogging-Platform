@@ -47,10 +47,9 @@ cd minimal-blogging-platform
 
     ```bash
     cd minimal-blogging-platform
-    ```
-```bash
     npm install or npm i
     ```
+
 ### 3. Set up the Backend
 
 1. Go to the backend directory:
@@ -117,8 +116,6 @@ frontend/
 ├── App.jsx            # Main React component
 └── main.jsx          # Entry point for React app
 ```
-
-
 
 ## 📱 UI Design
 
