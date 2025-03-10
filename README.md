@@ -9,6 +9,10 @@ This platform is designed with a focus on simplicity, scalability, and ease of u
 ## 🚀 Features
 
 - **Create, Read, Update, Delete (CRUD) operations** for blog posts.
+
+https://github.com/user-attachments/assets/39077e54-385c-4437-afe0-cd862faf6e3d
+
+
 - **User-friendly UI** that displays blog posts in a clean, intuitive manner.
 - A **Hero Section** at the top of the homepage.
 - **Blog listing** page to view all published posts.
