@@ -1,5 +1,9 @@
 # Minimal Blogging Platform
-https://github.com/user-attachments/assets/39077e54-385c-4437-afe0-cd862faf6e3d
+
+
+https://github.com/user-attachments/assets/deafb37f-bf57-424d-85d2-eeaacdaaef67
+
+
 A simple yet fully functional blogging platform that allows users to create, view, update, and delete blog posts. The platform is built with a Node.js/ExpressJS backend, a MongoDB database for storing data, and a ReactJS frontend with TailwindCSS for styling. 
 
 This platform is designed with a focus on simplicity, scalability, and ease of use. It follows best practices in both frontend and backend development while providing a clean user experience that mirrors modern SaaS-style blog websites.
