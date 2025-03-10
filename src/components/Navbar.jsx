@@ -7,7 +7,7 @@ function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
             <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-              DevBlog
+            RY Blogging Platform
             </span>
           </Link>
           <div className="flex items-center space-x-4">

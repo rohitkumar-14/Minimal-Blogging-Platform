@@ -29,7 +29,7 @@ function PostList() {
         </div>
       </section>
       <section id="latest-posts">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mx-auto my-8">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent my-8">Latest Blogs</h1>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {posts.map((post) => (
@@ -95,6 +95,17 @@ function PostList() {
         </div>
       </div>
       </section>
+      <footer class="bg-slate-900 text-white py-10 text-center">
+  <div class="max-w-4xl mx-auto px-6">
+    <p class="text-lg font-semibold">Stay Connected</p>
+    <div class="flex justify-center space-x-4 mt-4">
+      <Link to="#" class="text-slate-400 hover:text-white transition-colors">Facebook</Link>
+      <Link to="#" class="text-slate-400 hover:text-white transition-colors">Twitter</Link>
+      <Link to="#" class="text-slate-400 hover:text-white transition-colors">Instagram</Link>
+    </div>
+    <p class="mt-6 text-slate-400 text-sm">&copy; 2024 Blog Website. All rights reserved.</p>
+  </div>
+</footer>
     </>
   );
 }
