@@ -71,6 +71,7 @@ cd minimal-blogging-platform
 3. Start the server:
 
     ```bash
+    cd server
     npm run server
     ```
 
