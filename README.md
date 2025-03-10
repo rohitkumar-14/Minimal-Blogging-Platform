@@ -59,7 +59,7 @@ cd minimal-blogging-platform
 1. Go to the backend directory:
 
     ```bash
-    cd server
+    cd minimal-blogging-platform
     ```
 
 2. Set up the environment variables in a `.env` file:
